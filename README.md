@@ -4,7 +4,7 @@
 
 ## Ссылка на проект:
 
-[Посмотреть проект](https://almazka-code.github.io/coffee-house/)
+[Посмотреть проект](https://almazkacode.github.io/coffee-house/)
 
 ## Реализованный функционал:
 
